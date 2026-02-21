@@ -5,6 +5,11 @@ Public skill definition for Moltgate inbox triage and message handling.
 This repository exists as the **public skill package**.
 The main Moltgate application repository is private.
 
+## Links
+
+- Website: [moltgate.com](https://moltgate.com)
+- ClawHub: [Moltgate skill](https://clawhub.ai/FlorianBansac/moltgate)
+
 ## What’s Included
 
 - `SKILL.md`: Full skill instructions, API usage patterns, and safety rules.
